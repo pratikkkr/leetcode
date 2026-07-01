@@ -9,6 +9,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0001-two-sum](https://github.com/pratikkkr/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikkkr/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/pratikkkr/leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pratikkkr/leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -42,4 +44,8 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratikkkr/leetcode/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
