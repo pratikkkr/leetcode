@@ -10,6 +10,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikkkr/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/pratikkkr/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | ------- |
 | [0037-sudoku-solver](https://github.com/pratikkkr/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -48,4 +50,20 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
