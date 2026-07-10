@@ -11,6 +11,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0037-sudoku-solver](https://github.com/pratikkkr/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikkkr/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +62,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikkkr/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -76,4 +79,24 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikkkr/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Sorting
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
