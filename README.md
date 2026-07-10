@@ -29,6 +29,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/pratikkkr/leetcode/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
@@ -86,6 +87,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0022-generate-parentheses) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -99,4 +101,8 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
