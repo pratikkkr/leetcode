@@ -46,11 +46,13 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratikkkr/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/pratikkkr/leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/pratikkkr/leetcode/tree/master/0509-fibonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/pratikkkr/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratikkkr/leetcode/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/pratikkkr/leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/pratikkkr/leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/pratikkkr/leetcode/tree/master/0509-fibonacci-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -113,4 +116,5 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pratikkkr/leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/pratikkkr/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
