@@ -46,6 +46,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratikkkr/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/pratikkkr/leetcode/tree/master/0070-climbing-stairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/pratikkkr/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -103,6 +104,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/pratikkkr/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
