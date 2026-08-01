@@ -97,6 +97,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/pratikkkr/leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/pratikkkr/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pratikkkr/leetcode/tree/master/0509-fibonacci-number) |
@@ -119,6 +120,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -128,4 +130,8 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pratikkkr/leetcode/tree/master/0486-predict-the-winner) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
