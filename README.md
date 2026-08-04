@@ -14,11 +14,13 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkkr/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/pratikkkr/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikkkr/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/pratikkkr/leetcode/tree/master/0037-sudoku-solver) |
+| [3731-find-missing-elements](https://github.com/pratikkkr/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkkr/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/pratikkkr/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/pratikkkr/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
