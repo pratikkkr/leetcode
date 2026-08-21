@@ -12,6 +12,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
 | [0486-predict-the-winner](https://github.com/pratikkkr/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkkr/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikkkr/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/pratikkkr/leetcode/tree/master/3731-find-missing-elements) |
@@ -25,6 +26,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikkkr/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikkkr/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -53,6 +55,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0486-predict-the-winner](https://github.com/pratikkkr/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pratikkkr/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkkr/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikkkr/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3536-maximum-product-of-two-digits](https://github.com/pratikkkr/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -111,6 +114,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 ## Bit Manipulation
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikkkr/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -137,4 +141,12 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikkkr/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikkkr/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
