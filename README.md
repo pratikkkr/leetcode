@@ -57,6 +57,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkkr/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikkkr/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3536-maximum-product-of-two-digits](https://github.com/pratikkkr/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratikkkr/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
