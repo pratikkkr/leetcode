@@ -55,6 +55,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0486-predict-the-winner](https://github.com/pratikkkr/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pratikkkr/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkkr/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/pratikkkr/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikkkr/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3536-maximum-product-of-two-digits](https://github.com/pratikkkr/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratikkkr/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -111,6 +112,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/pratikkkr/leetcode/tree/master/1927-sum-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -129,6 +131,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1927-sum-game](https://github.com/pratikkkr/leetcode/tree/master/1927-sum-game) |
 ## Memoization
 |  |
 | ------- |
@@ -138,6 +141,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pratikkkr/leetcode/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/pratikkkr/leetcode/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
