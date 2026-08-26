@@ -132,6 +132,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0022-generate-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pratikkkr/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1927-sum-game](https://github.com/pratikkkr/leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pratikkkr/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Memoization
 |  |
 | ------- |
@@ -154,4 +155,8 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikkkr/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pratikkkr/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
