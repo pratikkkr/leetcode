@@ -8,6 +8,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | ------- |
 | [0001-two-sum](https://github.com/pratikkkr/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikkkr/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/pratikkkr/leetcode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/pratikkkr/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
 | [0486-predict-the-winner](https://github.com/pratikkkr/leetcode/tree/master/0486-predict-the-winner) |
@@ -104,6 +105,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pratikkkr/leetcode/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -117,6 +119,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pratikkkr/leetcode/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/pratikkkr/leetcode/tree/master/1927-sum-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
