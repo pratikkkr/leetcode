@@ -15,6 +15,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikkkr/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikkkr/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pratikkkr/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/pratikkkr/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0037-sudoku-solver](https://github.com/pratikkkr/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pratikkkr/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +76,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikkkr/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikkkr/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pratikkkr/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -92,10 +95,12 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikkkr/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pratikkkr/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikkkr/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pratikkkr/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
