@@ -11,6 +11,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | [0011-container-with-most-water](https://github.com/pratikkkr/leetcode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/pratikkkr/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/pratikkkr/leetcode/tree/master/0054-spiral-matrix) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pratikkkr/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/pratikkkr/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkkr/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pratikkkr/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -56,6 +57,7 @@ DSA practice repo — pattern-based LeetCode solutions in Python with approach n
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratikkkr/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/pratikkkr/leetcode/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pratikkkr/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/pratikkkr/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pratikkkr/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkkr/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
